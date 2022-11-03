@@ -1,0 +1,9 @@
+#lendo valor atravez de input 
+print("olá, usuário!")
+nome = input("Qual é o seu user?")
+print("olá", nome +"!")
+
+texto = input(("O que voce quer fazer hoje? ")) 
+print("Nós vamos", texto)
+pergunta1 =input( "como foi o seu dia hoje? Voce está bem?")
+print("Dont worry, stay coding ")
